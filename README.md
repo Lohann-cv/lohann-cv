@@ -43,7 +43,4 @@
 ---
 
 ## Me contacter
-<p>
-  <a href="[https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/lohann-coant-verdier-009043382/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:lohanncoantverdier@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+linkedin et Gmail
