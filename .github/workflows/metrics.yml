@@ -1,0 +1,19 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}]  # Mise à jour quotidienne
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Lohann-cv
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
