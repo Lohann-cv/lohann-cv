@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Salut
 
-<!--
-**Lohann-cv/lohann-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Bachelor Data & Intelligence Artificielle  
+Passionné par le Machine Learning, la Data Science et les technologies innovantes  
+Je développe des projets en Python, scikit-learn, PyTorch, pandas, matplotlib pour apprendre et me développer
 
-Here are some ideas to get you started:
+## Compétences
+- Python, PyTorch, scikit-learn, pandas, matplotlib
+- Machine Learning & Deep Learning
+- Visualisation et manipulation de données
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objectifs
+- Rechercher une **alternance à partir de 2026**  
+- Continuer à apprendre et à collaborer sur des projets innovants  
+- Échanger avec des passionnés de tech, data et IA
+
+**Contact** : | LinkedIn |
